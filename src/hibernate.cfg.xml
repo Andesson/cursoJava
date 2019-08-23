@@ -22,7 +22,7 @@
 		<property name="generated_statistics">true</property>
 		<property name="use_sql_comments">true</property>
          
-        <!-- Livro -->
+        <!-- mapping -->
         <mapping class="br.com.jsf.model.pessoa" />
     </session-factory>
 </hibernate-configuration>
