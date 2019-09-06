@@ -28,7 +28,7 @@ public class PessoaDAOHibernate implements PessoaDAO {
 
 	@Override
 	public Pessoa carregar(Integer id) {
-		// TODO Auto-generated method stub
+		
 		return null;
 	}
 
